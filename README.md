@@ -1,4 +1,4 @@
-<img src="icon/png/FunctionalECO.png">
+<img src="icon/FunctionalECO.png">
 # FunctionalECO — 2021 CAD Contest Problem A (G1 vs R2 two-netlist variant)
 
 Generates a minimum-cost functional ECO patch for `g1.v` so that the patched
